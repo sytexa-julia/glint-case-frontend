@@ -10,5 +10,5 @@ pnpm run dev
 ```
 
 ## Notes
-
-
+- I did not include any component or integration tests for this simple case.
+- In a real application I would refactor App.tsx to use multiple components: something like `Map` and `MapSidebar`.
